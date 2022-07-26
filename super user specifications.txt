@@ -1,0 +1,8 @@
+
+
+create superuser for admin panel
+python manage.py createsuperuser
+
+superuser name : admin
+superuser Email: admin@admin.com
+superuser password : admin
